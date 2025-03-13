@@ -178,3 +178,4 @@ cython_debug/
 
 # Custom ignores
 ffmpeg-master-latest-win64-gpl
+_old
