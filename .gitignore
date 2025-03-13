@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ...existing code...
+
+# Custom ignores
+ffmpeg-master-latest-win64-gpl
